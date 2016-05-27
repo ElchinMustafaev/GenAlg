@@ -1,0 +1,5 @@
+c:\users\эль\documents\visual studio 2013\Projects\GenTools\GenTools\bin\Debug\GenTools.dll
+c:\users\эль\documents\visual studio 2013\Projects\GenTools\GenTools\bin\Debug\GenTools.pdb
+c:\users\эль\documents\visual studio 2013\Projects\GenTools\GenTools\obj\Debug\GenTools.csprojResolveAssemblyReference.cache
+c:\users\эль\documents\visual studio 2013\Projects\GenTools\GenTools\obj\Debug\GenTools.dll
+c:\users\эль\documents\visual studio 2013\Projects\GenTools\GenTools\obj\Debug\GenTools.pdb

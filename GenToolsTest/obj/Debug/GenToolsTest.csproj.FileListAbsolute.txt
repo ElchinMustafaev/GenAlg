@@ -1,0 +1,8 @@
+c:\Users\Эль\documents\visual studio 2013\Projects\GenTools\GenToolsTest\bin\Debug\GenToolsTest.exe.config
+c:\Users\Эль\documents\visual studio 2013\Projects\GenTools\GenToolsTest\bin\Debug\GenToolsTest.exe
+c:\Users\Эль\documents\visual studio 2013\Projects\GenTools\GenToolsTest\bin\Debug\GenToolsTest.pdb
+c:\Users\Эль\documents\visual studio 2013\Projects\GenTools\GenToolsTest\bin\Debug\GenTools.dll
+c:\Users\Эль\documents\visual studio 2013\Projects\GenTools\GenToolsTest\bin\Debug\GenTools.pdb
+c:\Users\Эль\documents\visual studio 2013\Projects\GenTools\GenToolsTest\obj\Debug\GenToolsTest.csprojResolveAssemblyReference.cache
+c:\Users\Эль\documents\visual studio 2013\Projects\GenTools\GenToolsTest\obj\Debug\GenToolsTest.exe
+c:\Users\Эль\documents\visual studio 2013\Projects\GenTools\GenToolsTest\obj\Debug\GenToolsTest.pdb
